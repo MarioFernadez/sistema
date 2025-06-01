@@ -1,6 +1,6 @@
 <?php
 
-	const APP_URL="http://localhost/ventas/";
+	const APP_URL="http://localhost/sistema/";
 	const APP_NAME="VENTAS";
 	const APP_SESSION_NAME="POS";
 
@@ -23,7 +23,7 @@
 	const CAMPO_OBLIGATORIO='&nbsp; <i class="fas fa-edit"></i> &nbsp;';
 
 	/*----------  Zona horaria  ----------*/
-	date_default_timezone_set("America/Argentina/Buenos_Aires");
+	date_default_timezone_set("");
 
 	/*
 		Configuración de zona horaria de tu país, para más información visita

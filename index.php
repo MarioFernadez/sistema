@@ -47,8 +47,6 @@
                 require_once "./app/views/inc/navbar.php";
 
                 require_once $vista;
-
-
             ?>
         </section>
     </main>
